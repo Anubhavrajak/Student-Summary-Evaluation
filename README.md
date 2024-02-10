@@ -3,8 +3,11 @@
 # Project Overview:
 
 --> Objective: The project aimed to develop a model to evaluate the quality of summaries written by students in grades 3-12.
+
 --> Data Source: A collection of real student summaries was provided for training the model.
+
 --> Model Selection: DeBERTa-v3-base and BERT-base-uncased models were utilized for their proficiency in understanding contextual information and generating embeddings.
+
 --> Evaluation Metrics: The model assessed the main idea representation, details coherence, and language clarity, precision, and fluency in student summaries.
 
 
